@@ -1,8 +1,8 @@
 # Hi there, I'm Ali Behroozi 👋
 
-**Founder & BIM Director at [ALBE Studio](https://www.albestudio.com) | Architect | BIM Developer**
+**Founder & BIM Director at [ALBE Studio](https://www.albestudio.com) | BIM Developer**
 
-I am an architect and BIM specialist passionate about bridging the gap between architectural design and software engineering. I specialize in developing smart BIM solutions, automated workflows, and high-end Revit templates to optimize the AEC industry standards.
+I am a BIM specialist passionate about bridging the gap between architectural design and software engineering. I specialize in developing smart BIM solutions, automated workflows, and high-end Revit templates to optimize the AEC industry standards.
 
 ### 🛠️ Tech Stack & Tools
 * **BIM & 3D:** Autodesk Revit, Navisworks, AutoCAD, 3ds Max
